@@ -26,6 +26,12 @@ ul, ol {
 .nav-link:hover{
   transition: 0.5s;
   color: white;
+} 
+
+.color-boton {
+    background-color: #8DB600;
+    color: white;
+    font-weight:bolder;
 }
 
 .nav-link-green:hover {
